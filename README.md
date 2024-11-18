@@ -15,9 +15,9 @@ How It Works 🔍
 The workflow involves two stages:
 
 	1.	Training the Model:
-	•	A TabNet deep learning model is trained on maritime data to learn traffic patterns under various weather conditions.
+		•	A TabNet deep learning model is trained on maritime data to learn traffic patterns under various weather conditions.
 	2.	Making Predictions:
-	•	The trained model predicts maritime traffic for a given route and date using user-provided data.
+		•	The trained model predicts maritime traffic for a given route and date using user-provided data.
 
 Prerequisites 🛠️
 
@@ -28,24 +28,24 @@ How to Run the Application 🚀
 
 Step 1: Train the Model
 
-1.	Open the following Colab notebook:
+	1.	Open the following Colab notebook:
 
-		https://colab.research.google.com/drive/1taEETPduFLiJBN4OU0uRzq3mPtxl6J7D?usp=sharing
+			https://colab.research.google.com/drive/1taEETPduFLiJBN4OU0uRzq3mPtxl6J7D?usp=sharing
 
-2.	Run each block of code sequentially:
-	•	Follow the prompts and ensure that all dependencies are installed.
-	•	At the end of execution, a trained model file (model.pt) will be downloaded to your computer.
+	2.	Run each block of code sequentially:
+		•	Follow the prompts and ensure that all dependencies are installed.
+		•	At the end of execution, a trained model file (model.pt) will be downloaded to your computer.
 
 Step 2: Use the Trained Model
 
-1.	Open the second Colab notebook:
+	1.	Open the second Colab notebook:
  
-		https://colab.research.google.com/drive/1taEETPduFLiJBN4OU0uRzq3mPtxl6J7D?usp=sharing
+			https://colab.research.google.com/drive/1taEETPduFLiJBN4OU0uRzq3mPtxl6J7D?usp=sharing
 
-2.	Run each block of code sequentially:
-   	•	When prompted, upload the trained model file downloaded earlier (model.pt).
-  	•	Provide the required data inputs (route, date, and weather conditions).
-	•	The code will process the inputs and display the maritime traffic predictions.
+	2.	Run each block of code sequentially:
+   		•	When prompted, upload the trained model file downloaded earlier (model.pt).
+  		•	Provide the required data inputs (route, date, and weather conditions).
+		•	The code will process the inputs and display the maritime traffic predictions.
 
 Experimentation ⚡
 
