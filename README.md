@@ -28,21 +28,21 @@ How to Run the Application 🚀
 
 Step 1: Train the Model
 
-	1.	Open the following Colab notebook:
+1.	Open the following Colab notebook:
 
-[Model Training Notebook](https://colab.research.google.com/drive/1taEETPduFLiJBN4OU0uRzq3mPtxl6J7D?usp=sharing)
+		[Model Training Notebook](https://colab.research.google.com/drive/1taEETPduFLiJBN4OU0uRzq3mPtxl6J7D?usp=sharing)
 
-	2.	Run each block of code sequentially:
+2.	Run each block of code sequentially:
 	•	Follow the prompts and ensure that all dependencies are installed.
 	•	At the end of execution, a trained model file (model.pt) will be downloaded to your computer.
 
 Step 2: Use the Trained Model
 
-	1.	Open the second Colab notebook:
+1.	Open the second Colab notebook:
  
-[Prediction Notebook](https://colab.research.google.com/drive/1taEETPduFLiJBN4OU0uRzq3mPtxl6J7D?usp=sharing)
+		[Prediction Notebook](https://colab.research.google.com/drive/1taEETPduFLiJBN4OU0uRzq3mPtxl6J7D?usp=sharing)
 
-	2.	Run each block of code sequentially:
+2.	Run each block of code sequentially:
 	•	When prompted, upload the trained model file downloaded earlier (model.pt).
 	•	Provide the required data inputs (route, date, and weather conditions).
 	•	The code will process the inputs and display the maritime traffic predictions.
