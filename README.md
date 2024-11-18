@@ -43,8 +43,8 @@ Step 2: Use the Trained Model
 		https://colab.research.google.com/drive/1taEETPduFLiJBN4OU0uRzq3mPtxl6J7D?usp=sharing
 
 2.	Run each block of code sequentially:
-	•	When prompted, upload the trained model file downloaded earlier (model.pt).
-	•	Provide the required data inputs (route, date, and weather conditions).
+   	•	When prompted, upload the trained model file downloaded earlier (model.pt).
+  	•	Provide the required data inputs (route, date, and weather conditions).
 	•	The code will process the inputs and display the maritime traffic predictions.
 
 Experimentation ⚡
