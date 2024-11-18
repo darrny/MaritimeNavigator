@@ -1,5 +1,3 @@
-Here’s an improved and more structured version of your README:
-
 Maritime Navigator 🚢
 
 Maritime Navigator is an application designed to predict maritime traffic conditions on specific routes, given weather conditions and the desired date. It utilizes TabNet, a deep learning architecture, to analyze data and generate predictions. The application bridges its backend and frontend seamlessly using Gradio, enabling easy interaction and visualization.
