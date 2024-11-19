@@ -65,4 +65,5 @@ Future Improvements 🚀
 
 Screenshots 📸
 
-![Uploading Screenshot 2024-11-19 at 8.40.44 PM.png…]()
+<img width="1267" alt="Screenshot 2024-11-19 at 8 40 44 PM" src="https://github.com/user-attachments/assets/49c1b6a4-e104-424a-a447-87063f0fff01">
+
