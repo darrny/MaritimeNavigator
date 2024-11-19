@@ -62,3 +62,6 @@ Future Improvements 🚀
 -	Expand prediction capabilities to include multiple routes simultaneously.
 -	Integrate live weather data from external APIs for real-time predictions.
 -	Deploy the application as a standalone web or mobile app.
+
+Screenshots 📸
+![Uploading Screenshot 2024-11-19 at 8.40.44 PM.png…]()
